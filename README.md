@@ -1,10 +1,10 @@
 # Voice-Assistant-Python
 
-Voice Assistant with Speech Recognition
+## Voice Assistant with Speech Recognition
 
 This is a simple Python-based Voice Assistant program that uses speech recognition, text-to-speech conversion, and web browser integration to perform various tasks based on voice commands.
 
-How it Works
+## How it Works
 
 The Voice Assistant interacts with the user by listening to their voice commands, processing the queries, and responding appropriately. It has the following main components:
 
@@ -14,13 +14,13 @@ The Voice Assistant interacts with the user by listening to their voice commands
 
 3. Web Browsing: The Assistant can open specific websites like Google, YouTube, LinkedIn, GitHub, and HackerRank based on the user's commands.
 
-Prerequisites
+## Prerequisites
 
 Make sure you have the necessary libraries installed. You can install them using pip:
 
 pip install speech_recognition pyttsx3
 
-Usage
+## Usage
 
 1. Run the Python script Voice Assistant.py.
 
@@ -30,7 +30,7 @@ Usage
 
 4. The Assistant will process the command and respond accordingly.
 
-Supported Commands
+## Supported Commands
 
 The Voice Assistant currently supports the following commands:
 
