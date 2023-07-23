@@ -50,6 +50,6 @@ The Voice Assistant currently supports the following commands:
 
 8. "Open HackerRank": The Assistant will open a specific HackerRank profile in your default web browser.
 
-Customization
+## Customization
 
 You can extend the functionality of the Voice Assistant by adding more commands or integrating it with other APIs and services.
